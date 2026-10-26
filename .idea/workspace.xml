@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0dce186-16f4-4b00-9422-11b1734b1bbc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/primo-progetto/www/public/pizzeria.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo-progetto/.env.example" beforeDir="false" />
-    </list>
+    <list default="true" id="f0dce186-16f4-4b00-9422-11b1734b1bbc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -153,7 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1792488804403</updated>
       <workItem from="1792488806641" duration="956000" />
-      <workItem from="1792782018443" duration="4434000" />
+      <workItem from="1792782018443" duration="4531000" />
     </task>
     <servers />
   </component>
