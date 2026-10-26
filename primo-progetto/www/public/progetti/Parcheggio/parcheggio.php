@@ -39,12 +39,23 @@ if(isset($_POST["invio"])){
         </tr>
         <tr>
             <td>Costo orario</td>
-            <td>2</td>
+            <td><?php
+                $costo=0;
+                if($_GET['scelta'] == "Automobile"){
+                    echo '2';
+                    $costo = 2;
+                }
+
+                if($_GET['scelta'] == "Motocicletta"){
+                    echo '1';
+                    $costo = 1;
+                }
+                ?> </td>
         </tr>
         <tr>
             <td>Costo totale</td>
             <td><?php
-                echo $_POST['ore']*2;
+                echo $_POST['ore']* $costo;
                 ?> </td>
         </tr>
     </table>

@@ -5,7 +5,7 @@
     <title>home parcheggio</title>
 </head>
 <body>
-<a href="parcheggio.php?scelta=automobile">Automobile</a><br>
+<a href="parcheggio.php?scelta=Automobile">Automobile</a><br>
 <a href="parcheggio.php?scelta=Motocicletta">Motocicletta</a>
 </body>
 </html>
