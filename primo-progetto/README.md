@@ -11,7 +11,7 @@ Descrizione breve del progetto didattico.
 
 **1. Crea il file di configurazione**
 
-Copia `.env.example` in `.env` e compilalo con nome progetto, porte e
+Copia `.env` in `.env` e compilalo con nome progetto, porte e
 credenziali del database, usando l'editor che preferisci.
 
 - Windows: puoi usare Blocco Note, Notepad++ o Visual Studio Code

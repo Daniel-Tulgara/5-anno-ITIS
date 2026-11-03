@@ -66,7 +66,7 @@ xcopy progetto-template progetto-nuovo /E /I
 Copy-Item -Recurse progetto-template progetto-nuovo
 ```
 
-Poi, apri il file `.env.example` con l'editor preferito, compilalo e salvalo
+Poi, apri il file `.env` con l'editor preferito, compilalo e salvalo
 come `.env` nella stessa cartella. Infine:
 
 ```bash

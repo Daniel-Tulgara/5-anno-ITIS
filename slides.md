@@ -176,7 +176,7 @@ xcopy progetto-template progetto-nuovo /E /I
 cd progetto-nuovo
 
 # 1. Configura l'ambiente (editor preferito)
-cp .env.example .env
+cp .env .env
 
 # 2. Scrivi lo schema del database
 #    modifica db-init/01_schema.sql
@@ -263,7 +263,7 @@ con la configurazione del progetto
 
 ## Passo 3 - Configurazione variabili d'ambiente e database
 
-Aprire il file `.env.example` con l'editor preferito,  
+Aprire il file `.env` con l'editor preferito,  
 compilarlo con nome, porte e credenziali, e salvarlo come `.env`
 
 Se si utilizza il database, modificare opportunamente i file `db-init\01_schema.sql`
