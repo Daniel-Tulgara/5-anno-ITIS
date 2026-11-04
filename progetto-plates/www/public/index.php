@@ -4,7 +4,7 @@ require '../vendor/autoload.php';
 
 use League\Plates\Engine;
 
-$template = new Engine('../templates', 'tpl');
+$template = new Engine(directory: '../templates', fileExtension: 'tpl');
 
 
 $zona = $_GET['zona'] ?? 1;
